@@ -1,0 +1,1003 @@
+,Paises,Especies,Label,Comprimento
+0,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29879
+1,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+2,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29813
+3,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+4,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+5,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30119
+6,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29800
+7,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30081
+8,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29800
+9,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+10,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+11,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+12,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+13,Germany,Severe acute respiratory syndrome-related coronavirus,1,29865
+14,Jordan,Middle East respiratory syndrome-related coronavirus,0,30123
+15,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29814
+16,China,Betacoronavirus 1,0,30716
+17,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29758
+18,China,Betacoronavirus 1,0,30746
+19,USA,Betacoronavirus 1,0,30581
+20,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30119
+21,USA,Betacoronavirus 1,0,30717
+22,Italy,Severe acute respiratory syndrome-related coronavirus,1,29882
+23,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29776
+24,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29782
+25,Germany,Severe acute respiratory syndrome-related coronavirus,1,29857
+26,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+27,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+28,USA,Betacoronavirus 1,0,30669
+29,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+30,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29897
+31,USA,Betacoronavirus 1,0,30536
+32,USA,Betacoronavirus 1,0,30572
+33,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+34,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+35,Kenya,Human coronavirus NL63,0,27832
+36,USA,Betacoronavirus 1,0,30590
+37,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+38,Greece,Severe acute respiratory syndrome-related coronavirus,1,29880
+39,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29891
+40,USA,Betacoronavirus 1,0,30573
+41,Qatar,Middle East respiratory syndrome-related coronavirus,0,30033
+42,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29817
+43,Viet Nam,Severe acute respiratory syndrome-related coronavirus,1,29783
+44,Germany,Severe acute respiratory syndrome-related coronavirus,1,29870
+45,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29868
+46,South Korea,Middle East respiratory syndrome-related coronavirus,0,30108
+47,China,Human coronavirus NL63,0,27513
+48,Guam,Severe acute respiratory syndrome-related coronavirus,1,29818
+49,China,Betacoronavirus 1,0,30713
+50,Sweden,Severe acute respiratory syndrome-related coronavirus,1,29878
+51,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29800
+52,China,Betacoronavirus 1,0,30716
+53,Kenya,Betacoronavirus 1,0,30752
+54,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29813
+55,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29779
+56,Chile,Severe acute respiratory syndrome-related coronavirus,1,29782
+57,USA,Betacoronavirus 1,0,30577
+58,Lebanon,Severe acute respiratory syndrome-related coronavirus,1,29796
+59,USA,Human coronavirus NL63,0,27410
+60,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+61,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+62,China,Severe acute respiratory syndrome-related coronavirus,1,29834
+63,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29841
+64,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+65,China,Human coronavirus NL63,0,27516
+66,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29817
+67,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29566
+68,USA,Betacoronavirus 1,0,30710
+69,Sri Lanka,Severe acute respiratory syndrome-related coronavirus,1,29724
+70,Cote d'Ivoire,Betacoronavirus 1,0,30704
+71,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30078
+72,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29858
+73,Malaysia,Betacoronavirus 1,0,30716
+74,Spain,Severe acute respiratory syndrome-related coronavirus,1,29843
+75,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+76,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+77,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+78,Uruguay,Severe acute respiratory syndrome-related coronavirus,1,29903
+79,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+80,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+81,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29813
+82,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+83,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29800
+84,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29813
+85,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29882
+86,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29903
+87,South Korea,Middle East respiratory syndrome-related coronavirus,0,30118
+88,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+89,Italy,Severe acute respiratory syndrome-related coronavirus,1,29882
+90,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29820
+91,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+92,Pakistan,Severe acute respiratory syndrome-related coronavirus,1,29898
+93,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29887
+94,USA,Human coronavirus 229E,0,27235
+95,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29874
+96,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+97,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+98,USA,Human coronavirus NL63,0,27302
+99,USA,Betacoronavirus 1,0,30670
+100,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29816
+101,South Korea,Middle East respiratory syndrome-related coronavirus,0,30082
+102,USA,Betacoronavirus 1,0,30606
+103,USA,Betacoronavirus 1,0,30674
+104,China,Human coronavirus NL63,0,27516
+105,USA,Severe acute respiratory syndrome-related coronavirus,1,29409
+106,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29837
+107,USA,Betacoronavirus 1,0,30577
+108,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+109,South Korea,Middle East respiratory syndrome-related coronavirus,0,30150
+110,USA,Middle East respiratory syndrome-related coronavirus,0,30123
+111,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29813
+112,Spain,Severe acute respiratory syndrome-related coronavirus,1,29865
+113,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+114,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+115,Germany,Severe acute respiratory syndrome-related coronavirus,1,29782
+116,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+117,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29800
+118,USA,Human coronavirus NL63,0,27487
+119,South Korea,Middle East respiratory syndrome-related coronavirus,0,30111
+120,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+121,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+122,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+123,Jordan,Middle East respiratory syndrome-related coronavirus,0,30018
+124,USA,Betacoronavirus 1,0,30550
+125,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29882
+126,India,Human coronavirus 229E,0,27297
+127,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+128,Spain,Severe acute respiratory syndrome-related coronavirus,1,29782
+129,USA,Severe acute respiratory syndrome-related coronavirus,1,29409
+130,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29897
+131,Jordan,Betacoronavirus 1,0,30713
+132,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+133,USA,Betacoronavirus 1,0,30564
+134,France,Human coronavirus NL63,0,27553
+135,Germany,Severe acute respiratory syndrome-related coronavirus,1,29873
+136,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29813
+137,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29852
+138,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29816
+139,Japan,Severe acute respiratory syndrome-related coronavirus,1,29891
+140,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+141,USA,Human coronavirus NL63,0,27487
+142,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+143,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+144,USA,Human coronavirus NL63,0,27540
+145,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29857
+146,India,Human coronavirus 229E,0,27060
+147,China,Human coronavirus NL63,0,27538
+148,USA,Betacoronavirus 1,0,30578
+149,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29822
+150,Venezuela,Severe acute respiratory syndrome-related coronavirus,1,29845
+151,China,Human coronavirus NL63,0,27469
+152,USA,Human coronavirus HKU1,0,29893
+153,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29829
+154,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29850
+155,Italy,Severe acute respiratory syndrome-related coronavirus,1,29800
+156,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+157,USA,Human coronavirus HKU1,0,29887
+158,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29886
+159,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29882
+160,China,Betacoronavirus 1,0,30713
+161,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+162,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29813
+163,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29872
+164,China,Severe acute respiratory syndrome-related coronavirus,1,29903
+165,France,Betacoronavirus 1,0,30713
+166,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+167,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30042
+168,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29882
+169,Poland,Severe acute respiratory syndrome-related coronavirus,1,29897
+170,South Korea,Middle East respiratory syndrome-related coronavirus,0,29995
+171,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30111
+172,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29779
+173,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30115
+174,China,Betacoronavirus 1,0,30659
+175,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+176,USA,Human coronavirus 229E,0,27144
+177,USA,Betacoronavirus 1,0,30689
+178,USA,Human coronavirus NL63,0,27523
+179,Australia,Severe acute respiratory syndrome-related coronavirus,1,29813
+180,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+181,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29875
+182,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+183,Italy,Severe acute respiratory syndrome-related coronavirus,1,29855
+184,Venezuela,Severe acute respiratory syndrome-related coronavirus,1,29845
+185,Zambia,Severe acute respiratory syndrome-related coronavirus,1,29813
+186,USA,Betacoronavirus 1,0,30577
+187,Malaysia,Betacoronavirus 1,0,30713
+188,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+189,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29864
+190,Venezuela,Severe acute respiratory syndrome-related coronavirus,1,29845
+191,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29798
+192,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29774
+193,USA,Betacoronavirus 1,0,30705
+194,Spain,Severe acute respiratory syndrome-related coronavirus,1,29782
+195,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+196,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+197,Italy,Severe acute respiratory syndrome-related coronavirus,1,29841
+198,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+199,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+200,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29882
+201,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+202,USA,Betacoronavirus 1,0,30602
+203,USA,Betacoronavirus 1,0,30659
+204,USA,Betacoronavirus 1,0,30818
+205,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29815
+206,Italy,Severe acute respiratory syndrome-related coronavirus,1,29801
+207,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29860
+208,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+209,Chile,Severe acute respiratory syndrome-related coronavirus,1,29771
+210,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+211,South Africa,Severe acute respiratory syndrome-related coronavirus,1,29882
+212,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29881
+213,Kenya,Human coronavirus NL63,0,27587
+214,USA,Betacoronavirus 1,0,30713
+215,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29902
+216,USA,Betacoronavirus 1,0,30722
+217,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29760
+218,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+219,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+220,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29882
+221,India,Human coronavirus 229E,0,27305
+222,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+223,Poland,Severe acute respiratory syndrome-related coronavirus,1,29813
+224,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+225,France,Middle East respiratory syndrome-related coronavirus,0,29267
+226,USA,Betacoronavirus 1,0,30577
+227,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29891
+228,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29840
+229,Kenya,Human coronavirus NL63,0,27637
+230,Spain,Severe acute respiratory syndrome-related coronavirus,1,29782
+231,China,Betacoronavirus 1,0,30713
+232,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29882
+233,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29834
+234,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+235,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29803
+236,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+237,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+238,Russia,Severe acute respiratory syndrome-related coronavirus,1,29852
+239,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+240,Kazakhstan,Severe acute respiratory syndrome-related coronavirus,1,29891
+241,Malaysia,Betacoronavirus 1,0,30716
+242,USA,Human coronavirus NL63,0,27553
+243,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29779
+244,Chile,Severe acute respiratory syndrome-related coronavirus,1,29799
+245,Qatar,Middle East respiratory syndrome-related coronavirus,0,30086
+246,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+247,USA,Betacoronavirus 1,0,30577
+248,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30102
+249,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+250,Poland,Severe acute respiratory syndrome-related coronavirus,1,29813
+251,Guam,Severe acute respiratory syndrome-related coronavirus,1,29818
+252,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29751
+253,USA,Middle East respiratory syndrome-related coronavirus,0,30123
+254,Chile,Severe acute respiratory syndrome-related coronavirus,1,29771
+255,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30115
+256,China,Betacoronavirus 1,0,30713
+257,South Korea,Middle East respiratory syndrome-related coronavirus,0,30119
+258,USA,Severe acute respiratory syndrome-related coronavirus,1,29870
+259,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+260,China,Betacoronavirus 1,0,30713
+261,Germany,Severe acute respiratory syndrome-related coronavirus,1,29782
+262,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+263,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+264,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29861
+265,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+266,USA,Human coronavirus NL63,0,27553
+267,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30119
+268,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29815
+269,Italy,Betacoronavirus 1,0,30713
+270,Malaysia,Betacoronavirus 1,0,30713
+271,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29865
+272,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+273,Spain,Severe acute respiratory syndrome-related coronavirus,1,29782
+274,USA,Betacoronavirus 1,0,30656
+275,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+276,USA,Betacoronavirus 1,0,30722
+277,Chile,Severe acute respiratory syndrome-related coronavirus,1,29799
+278,New Zealand,Severe acute respiratory syndrome-related coronavirus,1,29898
+279,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29835
+280,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30085
+281,China,Human coronavirus NL63,0,27538
+282,Germany,Human coronavirus 229E,0,27022
+283,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29903
+284,Malaysia,Betacoronavirus 1,0,30716
+285,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+286,USA,Human coronavirus HKU1,0,29908
+287,USA,Human coronavirus 229E,0,27075
+288,Kenya,Human coronavirus NL63,0,27685
+289,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+290,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+291,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+292,China,Severe acute respiratory syndrome-related coronavirus,1,29800
+293,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29818
+294,Iran,Severe acute respiratory syndrome-related coronavirus,1,29679
+295,USA,Middle East respiratory syndrome-related coronavirus,0,30123
+296,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+297,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+298,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30069
+299,USA,Human coronavirus NL63,0,27410
+300,China,Betacoronavirus 1,0,30713
+301,USA,Human coronavirus HKU1,0,29820
+302,India,Severe acute respiratory syndrome-related coronavirus,1,29747
+303,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29873
+304,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30063
+305,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+306,USA,Betacoronavirus 1,0,30719
+307,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+308,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29869
+309,USA,Betacoronavirus 1,0,30578
+310,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29854
+311,China,Betacoronavirus 1,0,30713
+312,Iran,Severe acute respiratory syndrome-related coronavirus,1,29845
+313,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29813
+314,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+315,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+316,India,Severe acute respiratory syndrome-related coronavirus,1,29843
+317,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+318,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+319,China,Severe acute respiratory syndrome-related coronavirus,1,29903
+320,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+321,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29839
+322,China,Human coronavirus NL63,0,27532
+323,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29843
+324,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29812
+325,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+326,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29882
+327,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29817
+328,Jordan,Middle East respiratory syndrome-related coronavirus,0,30123
+329,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29810
+330,Sri Lanka,Severe acute respiratory syndrome-related coronavirus,1,29724
+331,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+332,Iran,Severe acute respiratory syndrome-related coronavirus,1,29882
+333,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29813
+334,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29782
+335,USA,Human coronavirus 229E,0,27208
+336,China,Betacoronavirus 1,0,30713
+337,China,Severe acute respiratory syndrome-related coronavirus,1,29880
+338,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29815
+339,Malaysia,Betacoronavirus 1,0,30716
+340,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+341,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30087
+342,USA,Betacoronavirus 1,0,30562
+343,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+344,USA,Middle East respiratory syndrome-related coronavirus,0,30120
+345,USA,Betacoronavirus 1,0,30581
+346,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30104
+347,Spain,Severe acute respiratory syndrome-related coronavirus,1,29838
+348,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29815
+349,China,Betacoronavirus 1,0,30713
+350,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29893
+351,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29779
+352,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29900
+353,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29868
+354,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29800
+355,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29813
+356,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29695
+357,USA,Human coronavirus NL63,0,27413
+358,USA,Human coronavirus 229E,0,27165
+359,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+360,USA,Human coronavirus NL63,0,27487
+361,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29903
+362,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29901
+363,USA,Human coronavirus 229E,0,27231
+364,China,Betacoronavirus 1,0,30577
+365,South Korea,Middle East respiratory syndrome-related coronavirus,0,30118
+366,USA,Betacoronavirus 1,0,30722
+367,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+368,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+369,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+370,Iran,Severe acute respiratory syndrome-related coronavirus,1,29864
+371,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29885
+372,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30115
+373,USA,Betacoronavirus 1,0,30578
+374,USA,Betacoronavirus 1,0,30578
+375,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29819
+376,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29864
+377,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29852
+378,USA,Human coronavirus HKU1,0,29862
+379,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+380,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+381,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+382,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29872
+383,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29819
+384,Sri Lanka,Severe acute respiratory syndrome-related coronavirus,1,29732
+385,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29833
+386,China,Betacoronavirus 1,0,30722
+387,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+388,Japan,Severe acute respiratory syndrome-related coronavirus,1,29858
+389,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30102
+390,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29782
+391,China,Human coronavirus NL63,0,27413
+392,USA,Betacoronavirus 1,0,30581
+393,Iran,Severe acute respiratory syndrome-related coronavirus,1,29781
+394,Russia,Severe acute respiratory syndrome-related coronavirus,1,29800
+395,China,Betacoronavirus 1,0,30737
+396,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+397,USA,Betacoronavirus 1,0,30568
+398,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+399,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+400,Mexico,Betacoronavirus 1,0,30714
+401,India,Severe acute respiratory syndrome-related coronavirus,1,29903
+402,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30112
+403,Chile,Severe acute respiratory syndrome-related coronavirus,1,29782
+404,Jordan,Middle East respiratory syndrome-related coronavirus,0,30045
+405,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+406,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29785
+407,USA,Betacoronavirus 1,0,30577
+408,Malaysia,Betacoronavirus 1,0,30713
+409,USA,Human coronavirus NL63,0,27487
+410,India,Severe acute respiratory syndrome-related coronavirus,1,29836
+411,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+412,Belize,Severe acute respiratory syndrome-related coronavirus,1,29882
+413,China,Betacoronavirus 1,0,30719
+414,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30076
+415,USA,Betacoronavirus 1,0,30577
+416,China,Human coronavirus NL63,0,27469
+417,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+418,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29724
+419,USA,Human coronavirus 229E,0,27242
+420,Germany,Severe acute respiratory syndrome-related coronavirus,1,29782
+421,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+422,Jordan,Middle East respiratory syndrome-related coronavirus,0,30045
+423,Kenya,Betacoronavirus 1,0,30713
+424,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+425,China,Betacoronavirus 1,0,30713
+426,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30108
+427,USA,Human coronavirus 229E,0,27208
+428,Germany,Severe acute respiratory syndrome-related coronavirus,1,29849
+429,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29903
+430,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+431,USA,Human coronavirus NL63,0,27410
+432,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+433,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29903
+434,South Korea,Middle East respiratory syndrome-related coronavirus,0,30110
+435,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+436,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29851
+437,Italy,Severe acute respiratory syndrome-related coronavirus,1,29850
+438,Chile,Severe acute respiratory syndrome-related coronavirus,1,29782
+439,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29800
+440,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+441,China,Human coronavirus NL63,0,27781
+442,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30075
+443,USA,Human coronavirus NL63,0,27513
+444,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+445,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+446,Japan,Severe acute respiratory syndrome-related coronavirus,1,29388
+447,Belize,Severe acute respiratory syndrome-related coronavirus,1,29879
+448,Poland,Severe acute respiratory syndrome-related coronavirus,1,29813
+449,USA,Betacoronavirus 1,0,30577
+450,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+451,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+452,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+453,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30082
+454,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29819
+455,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+456,China,Severe acute respiratory syndrome-related coronavirus,1,29663
+457,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29809
+458,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29882
+459,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+460,Thailand,Middle East respiratory syndrome-related coronavirus,0,29809
+461,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+462,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+463,Haiti,Human coronavirus 229E,0,27271
+464,Malaysia,Middle East respiratory syndrome-related coronavirus,0,30119
+465,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+466,France,Severe acute respiratory syndrome-related coronavirus,1,29782
+467,India,Severe acute respiratory syndrome-related coronavirus,1,29831
+468,China,Human coronavirus NL63,0,27531
+469,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+470,Russia,Severe acute respiratory syndrome-related coronavirus,1,29867
+471,Poland,Severe acute respiratory syndrome-related coronavirus,1,29866
+472,China,Human coronavirus NL63,0,27469
+473,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29882
+474,USA,Betacoronavirus 1,0,30577
+475,USA,Human coronavirus NL63,0,27492
+476,China,Severe acute respiratory syndrome-related coronavirus,1,29903
+477,Australia,Severe acute respiratory syndrome-related coronavirus,1,29815
+478,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29823
+479,USA,Betacoronavirus 1,0,30648
+480,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29903
+481,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30064
+482,Malaysia,Betacoronavirus 1,0,30713
+483,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+484,United Kingdom,Betacoronavirus 1,0,30714
+485,USA,Betacoronavirus 1,0,30562
+486,USA,Betacoronavirus 1,0,30577
+487,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+488,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30081
+489,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+490,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+491,China,Human coronavirus HKU1,0,29926
+492,Oman,Middle East respiratory syndrome-related coronavirus,0,30123
+493,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29903
+494,Malaysia,Severe acute respiratory syndrome-related coronavirus,1,29756
+495,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29851
+496,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+497,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+498,Spain,Severe acute respiratory syndrome-related coronavirus,1,29903
+499,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+500,Malaysia,Betacoronavirus 1,0,30711
+501,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30105
+502,Australia,Severe acute respiratory syndrome-related coronavirus,1,29841
+503,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+504,India,Middle East respiratory syndrome-related coronavirus,0,30108
+505,USA,Betacoronavirus 1,0,30752
+506,Germany,Severe acute respiratory syndrome-related coronavirus,1,29782
+507,China,Betacoronavirus 1,0,30713
+508,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29860
+509,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29820
+510,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29851
+511,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30114
+512,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+513,India,Severe acute respiratory syndrome-related coronavirus,1,29868
+514,Italy,Severe acute respiratory syndrome-related coronavirus,1,29893
+515,Australia,Severe acute respiratory syndrome-related coronavirus,1,29814
+516,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29818
+517,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29882
+518,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29857
+519,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+520,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29865
+521,China,Betacoronavirus 1,0,30719
+522,Australia,Severe acute respiratory syndrome-related coronavirus,1,29805
+523,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29782
+524,South Korea,Middle East respiratory syndrome-related coronavirus,0,30106
+525,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+526,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+527,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29903
+528,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30031
+529,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+530,Malaysia,Severe acute respiratory syndrome-related coronavirus,1,29756
+531,China,Human coronavirus HKU1,0,29742
+532,USA,Betacoronavirus 1,0,30713
+533,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+534,USA,Human coronavirus NL63,0,27537
+535,Australia,Severe acute respiratory syndrome-related coronavirus,1,29814
+536,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29866
+537,China,Betacoronavirus 1,0,30713
+538,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29820
+539,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+540,Italy,Severe acute respiratory syndrome-related coronavirus,1,29882
+541,Pakistan,Severe acute respiratory syndrome-related coronavirus,1,29782
+542,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+543,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30076
+544,Poland,Severe acute respiratory syndrome-related coronavirus,1,29827
+545,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30120
+546,USA,Betacoronavirus 1,0,30608
+547,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+548,Germany,Severe acute respiratory syndrome-related coronavirus,1,29869
+549,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+550,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+551,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+552,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29809
+553,Germany,Betacoronavirus 1,0,30577
+554,Belize,Severe acute respiratory syndrome-related coronavirus,1,29882
+555,China,Betacoronavirus 1,0,30713
+556,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29866
+557,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29788
+558,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+559,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+560,Belize,Severe acute respiratory syndrome-related coronavirus,1,29882
+561,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29816
+562,Spain,Severe acute respiratory syndrome-related coronavirus,1,29800
+563,South Korea,Middle East respiratory syndrome-related coronavirus,0,30118
+564,Kazakhstan,Severe acute respiratory syndrome-related coronavirus,1,29891
+565,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+566,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29838
+567,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29813
+568,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+569,Israel,Severe acute respiratory syndrome-related coronavirus,1,29882
+570,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29865
+571,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29827
+572,Spain,Severe acute respiratory syndrome-related coronavirus,1,29903
+573,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+574,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29865
+575,USA,Human coronavirus HKU1,0,29367
+576,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30054
+577,India,Human coronavirus 229E,0,27307
+578,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30113
+579,Haiti,Human coronavirus NL63,0,27553
+580,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+581,France,Middle East respiratory syndrome-related coronavirus,0,29880
+582,Australia,Severe acute respiratory syndrome-related coronavirus,1,29814
+583,China,Human coronavirus HKU1,0,29926
+584,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+585,Malaysia,Betacoronavirus 1,0,30716
+586,Australia,Severe acute respiratory syndrome-related coronavirus,1,29821
+587,USA,Betacoronavirus 1,0,30606
+588,Jordan,Middle East respiratory syndrome-related coronavirus,0,30123
+589,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+590,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+591,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29878
+592,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+593,China,Betacoronavirus 1,0,30713
+594,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29858
+595,Colombia,Severe acute respiratory syndrome-related coronavirus,1,29781
+596,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+597,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+598,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29897
+599,USA,Betacoronavirus 1,0,30681
+600,USA,Human coronavirus HKU1,0,29695
+601,China,Betacoronavirus 1,0,30713
+602,USA,Human coronavirus HKU1,0,29921
+603,Malaysia,Betacoronavirus 1,0,30713
+604,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+605,USA,Coronavirus cyc-BetaCoV/2019,0,30499
+606,China,Human coronavirus HKU1,0,29982
+607,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+608,USA,Severe acute respiratory syndrome-related coronavirus,1,29762
+609,USA,Betacoronavirus 1,0,30713
+610,USA,Human coronavirus 229E,0,27263
+611,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29807
+612,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29820
+613,Malaysia,Betacoronavirus 1,0,30713
+614,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29884
+615,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29882
+616,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30117
+617,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30039
+618,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+619,USA,Betacoronavirus 1,0,30571
+620,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+621,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+622,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+623,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+624,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29882
+625,USA,Betacoronavirus 1,0,30602
+626,China,Severe acute respiratory syndrome-related coronavirus,1,29781
+627,China,Betacoronavirus 1,0,30713
+628,USA,Human coronavirus 229E,0,27136
+629,USA,Human coronavirus NL63,0,27489
+630,China,Human coronavirus NL63,0,27623
+631,Australia,Severe acute respiratory syndrome-related coronavirus,1,29834
+632,USA,Human coronavirus 229E,0,27226
+633,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+634,Australia,Severe acute respiratory syndrome-related coronavirus,1,29813
+635,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+636,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+637,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+638,USA,Human coronavirus 229E,0,27138
+639,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29891
+640,USA,Human coronavirus NL63,0,27487
+641,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+642,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30052
+643,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+644,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29800
+645,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29833
+646,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29837
+647,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+648,Venezuela,Severe acute respiratory syndrome-related coronavirus,1,29845
+649,Chile,Severe acute respiratory syndrome-related coronavirus,1,29799
+650,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+651,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+652,USA,Betacoronavirus 1,0,30577
+653,USA,Betacoronavirus 1,0,30953
+654,USA,Human coronavirus 229E,0,27182
+655,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29800
+656,USA,Betacoronavirus 1,0,30721
+657,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29832
+658,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29796
+659,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+660,USA,Human coronavirus NL63,0,27410
+661,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29779
+662,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29918
+663,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29570
+664,USA,Severe acute respiratory syndrome-related coronavirus,1,29862
+665,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30065
+666,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29782
+667,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+668,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29801
+669,Pakistan,Severe acute respiratory syndrome-related coronavirus,1,29903
+670,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29841
+671,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29818
+672,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30056
+673,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+674,USA,Severe acute respiratory syndrome-related coronavirus,1,29870
+675,Pakistan,Severe acute respiratory syndrome-related coronavirus,1,29882
+676,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+677,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29815
+678,Kazakhstan,Severe acute respiratory syndrome-related coronavirus,1,29903
+679,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29903
+680,USA,Betacoronavirus 1,0,30578
+681,Australia,Severe acute respiratory syndrome-related coronavirus,1,29813
+682,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29782
+683,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29854
+684,USA,Severe acute respiratory syndrome-related coronavirus,1,29899
+685,Guam,Severe acute respiratory syndrome-related coronavirus,1,29818
+686,Venezuela,Severe acute respiratory syndrome-related coronavirus,1,29845
+687,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29825
+688,United Kingdom,Severe acute respiratory syndrome-related coronavirus,1,29903
+689,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+690,USA,Human coronavirus NL63,0,27550
+691,USA,Human coronavirus NL63,0,27509
+692,South Korea,Middle East respiratory syndrome-related coronavirus,0,30108
+693,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+694,USA,Betacoronavirus 1,0,30581
+695,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29918
+696,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+697,USA,Human coronavirus NL63,0,27410
+698,Peru,Severe acute respiratory syndrome-related coronavirus,1,29519
+699,China,Human coronavirus NL63,0,27544
+700,Italy,Severe acute respiratory syndrome-related coronavirus,1,29820
+701,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+702,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29777
+703,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29805
+704,India,Severe acute respiratory syndrome-related coronavirus,1,29800
+705,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29860
+706,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29867
+707,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29671
+708,USA,Betacoronavirus 1,0,30611
+709,USA,Betacoronavirus 1,0,30581
+710,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29858
+711,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+712,USA,Betacoronavirus 1,0,30681
+713,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29850
+714,China,Betacoronavirus 1,0,30713
+715,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29818
+716,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29898
+717,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+718,Canada,Betacoronavirus 1,0,30569
+719,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+720,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+721,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29819
+722,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29796
+723,Lebanon,Severe acute respiratory syndrome-related coronavirus,1,29796
+724,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29820
+725,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+726,Iran,Severe acute respiratory syndrome-related coronavirus,1,29882
+727,China,Betacoronavirus 1,0,30713
+728,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+729,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+730,USA,Human coronavirus HKU1,0,29887
+731,USA,Human coronavirus NL63,0,27410
+732,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+733,Netherlands,Human coronavirus HKU1,0,29983
+734,China,Severe acute respiratory syndrome-related coronavirus,1,29883
+735,USA,Severe acute respiratory syndrome-related coronavirus,1,29782
+736,USA,Human coronavirus 229E,0,26592
+737,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+738,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+739,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29785
+740,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29903
+741,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29903
+742,USA,Middle East respiratory syndrome-related coronavirus,0,30120
+743,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29800
+744,Kenya,Betacoronavirus 1,0,30777
+745,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29903
+746,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29782
+747,USA,Severe acute respiratory syndrome-related coronavirus,1,29895
+748,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+749,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30035
+750,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29854
+751,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+752,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+753,USA,Human coronavirus HKU1,0,29832
+754,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+755,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29919
+756,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+757,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29903
+758,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+759,USA,Betacoronavirus 1,0,30577
+760,USA,Human coronavirus NL63,0,27410
+761,Malaysia,Severe acute respiratory syndrome-related coronavirus,1,29756
+762,USA,Human coronavirus NL63,0,27395
+763,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+764,China,Betacoronavirus 1,0,30737
+765,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29871
+766,China,Human coronavirus NL63,0,27487
+767,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+768,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+769,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+770,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+771,Netherlands,Severe acute respiratory syndrome-related coronavirus,1,29899
+772,France,Middle East respiratory syndrome-related coronavirus,0,29783
+773,USA,Betacoronavirus 1,0,30719
+774,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29844
+775,China,Betacoronavirus 1,0,30713
+776,Netherlands,Severe acute respiratory syndrome-related coronavirus,1,29645
+777,China,Betacoronavirus 1,0,30716
+778,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29817
+779,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+780,Sri Lanka,Severe acute respiratory syndrome-related coronavirus,1,29723
+781,Jordan,Middle East respiratory syndrome-related coronavirus,0,30089
+782,Viet Nam,Severe acute respiratory syndrome-related coronavirus,1,29845
+783,USA,Betacoronavirus 1,0,30661
+784,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+785,USA,Betacoronavirus 1,0,31029
+786,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+787,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29861
+788,Australia,Severe acute respiratory syndrome-related coronavirus,1,29837
+789,Chile,Severe acute respiratory syndrome-related coronavirus,1,29834
+790,USA,Severe acute respiratory syndrome-related coronavirus,1,29851
+791,USA,Human coronavirus 229E,0,27055
+792,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+793,Jamaica,Severe acute respiratory syndrome-related coronavirus,1,29782
+794,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+795,USA,Human coronavirus NL63,0,27401
+796,Cote d'Ivoire,Betacoronavirus 1,0,30722
+797,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29806
+798,China,Betacoronavirus 1,0,30713
+799,Italy,Severe acute respiratory syndrome-related coronavirus,1,29882
+800,France,Middle East respiratory syndrome-related coronavirus,0,30040
+801,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29806
+802,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+803,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+804,USA,Human coronavirus 229E,0,27193
+805,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29740
+806,USA,Human coronavirus 229E,0,27238
+807,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29896
+808,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+809,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30118
+810,China,Betacoronavirus 1,0,30713
+811,USA,Human coronavirus 229E,0,27270
+812,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29903
+813,Saudi Arabia,Severe acute respiratory syndrome-related coronavirus,1,29799
+814,Nepal,Severe acute respiratory syndrome-related coronavirus,1,29878
+815,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+816,Jordan,Middle East respiratory syndrome-related coronavirus,0,30096
+817,China,Middle East respiratory syndrome-related coronavirus,0,30119
+818,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29855
+819,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+820,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+821,Spain,Severe acute respiratory syndrome-related coronavirus,1,29838
+822,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+823,Japan,Severe acute respiratory syndrome-related coronavirus,1,29879
+824,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29868
+825,USA,Coronavirus cya-BetaCoV/2019,0,30499
+826,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+827,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29864
+828,Poland,Severe acute respiratory syndrome-related coronavirus,1,29813
+829,USA,Human coronavirus 229E,0,27249
+830,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+831,Lebanon,Severe acute respiratory syndrome-related coronavirus,1,29800
+832,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29782
+833,Malaysia,Betacoronavirus 1,0,30716
+834,Bangladesh,Severe acute respiratory syndrome-related coronavirus,1,29782
+835,USA,Human coronavirus NL63,0,27523
+836,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+837,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+838,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+839,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29849
+840,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+841,USA,Human coronavirus 229E,0,27169
+842,China,Severe acute respiratory syndrome-related coronavirus,1,29882
+843,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29779
+844,USA,Betacoronavirus 1,0,30723
+845,Germany,Severe acute respiratory syndrome-related coronavirus,1,29782
+846,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30119
+847,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29891
+848,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29880
+849,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+850,Greece,Severe acute respiratory syndrome-related coronavirus,1,29818
+851,China,Betacoronavirus 1,0,30713
+852,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+853,USA,Severe acute respiratory syndrome-related coronavirus,1,29903
+854,China,Severe acute respiratory syndrome-related coronavirus,1,29845
+855,USA,Betacoronavirus 1,0,30577
+856,China,Severe acute respiratory syndrome-related coronavirus,1,29663
+857,Brazil,Coronavirus cyb-BetaCoV/2019,0,30499
+858,China,Middle East respiratory syndrome-related coronavirus,0,30030
+859,Czech Republic,Severe acute respiratory syndrome-related coronavirus,1,29719
+860,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+861,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29800
+862,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30054
+863,France,Human coronavirus NL63,0,27487
+864,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+865,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+866,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29782
+867,Israel,Severe acute respiratory syndrome-related coronavirus,1,29882
+868,Spain,Severe acute respiratory syndrome-related coronavirus,1,29891
+869,Poland,Severe acute respiratory syndrome-related coronavirus,1,29903
+870,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29871
+871,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30063
+872,Germany,Severe acute respiratory syndrome-related coronavirus,1,29855
+873,USA,Human coronavirus NL63,0,27553
+874,USA,Betacoronavirus 1,0,30710
+875,USA,Betacoronavirus 1,0,30670
+876,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29782
+877,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+878,South Korea,Middle East respiratory syndrome-related coronavirus,0,29831
+879,Iran,Severe acute respiratory syndrome-related coronavirus,1,29838
+880,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30059
+881,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29868
+882,Italy,Severe acute respiratory syndrome-related coronavirus,1,29822
+883,China,Severe acute respiratory syndrome-related coronavirus,1,29834
+884,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29867
+885,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+886,USA,Betacoronavirus 1,0,30716
+887,Jordan,Middle East respiratory syndrome-related coronavirus,0,30001
+888,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+889,Kazakhstan,Severe acute respiratory syndrome-related coronavirus,1,29891
+890,China,Human coronavirus NL63,0,27469
+891,China,Betacoronavirus 1,0,30713
+892,China,Severe acute respiratory syndrome-related coronavirus,1,29812
+893,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29878
+894,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29882
+895,Puerto Rico,Severe acute respiratory syndrome-related coronavirus,1,29758
+896,United Kingdom,Severe acute respiratory syndrome-related coronavirus,1,29852
+897,USA,Betacoronavirus 1,0,30577
+898,France,Middle East respiratory syndrome-related coronavirus,0,29901
+899,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+900,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30055
+901,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29847
+902,Thailand,Severe acute respiratory syndrome-related coronavirus,1,29824
+903,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29842
+904,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+905,Timor-Leste,Severe acute respiratory syndrome-related coronavirus,1,29828
+906,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29899
+907,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29890
+908,China,Betacoronavirus 1,0,30713
+909,USA,Betacoronavirus 1,0,30725
+910,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30115
+911,Oman,Middle East respiratory syndrome-related coronavirus,0,30123
+912,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+913,USA,Betacoronavirus 1,0,30668
+914,Japan,Severe acute respiratory syndrome-related coronavirus,1,29882
+915,USA,Severe acute respiratory syndrome-related coronavirus,1,29861
+916,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+917,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+918,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+919,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29813
+920,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30111
+921,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29851
+922,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+923,USA,Severe acute respiratory syndrome-related coronavirus,1,29850
+924,Sierra Leone,Severe acute respiratory syndrome-related coronavirus,1,29782
+925,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30102
+926,Malaysia,Betacoronavirus 1,0,30713
+927,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29801
+928,South Korea,Severe acute respiratory syndrome-related coronavirus,1,29847
+929,Thailand,Human coronavirus HKU1,0,29811
+930,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+931,USA,Human coronavirus NL63,0,27484
+932,Taiwan,Severe acute respiratory syndrome-related coronavirus,1,29862
+933,Iran,Severe acute respiratory syndrome-related coronavirus,1,29882
+934,Oman,Middle East respiratory syndrome-related coronavirus,0,30123
+935,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+936,Jordan,Severe acute respiratory syndrome-related coronavirus,1,29409
+937,Qatar,Middle East respiratory syndrome-related coronavirus,0,30090
+938,China,Human coronavirus HKU1,0,29923
+939,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29751
+940,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+941,USA,Betacoronavirus 1,0,30722
+942,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30061
+943,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+944,Spain,Severe acute respiratory syndrome-related coronavirus,1,29850
+945,Morocco,Severe acute respiratory syndrome-related coronavirus,1,29903
+946,Australia,Severe acute respiratory syndrome-related coronavirus,1,29824
+947,USA,Middle East respiratory syndrome-related coronavirus,0,30123
+948,Lebanon,Severe acute respiratory syndrome-related coronavirus,1,29796
+949,Bahrain,Severe acute respiratory syndrome-related coronavirus,1,29798
+950,USA,Human coronavirus NL63,0,27487
+951,China,Middle East respiratory syndrome-related coronavirus,0,30114
+952,Italy,Severe acute respiratory syndrome-related coronavirus,1,29800
+953,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+954,Ghana,Severe acute respiratory syndrome-related coronavirus,1,29825
+955,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,29799
+956,USA,Human coronavirus HKU1,0,29934
+957,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+958,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+959,Germany,Severe acute respiratory syndrome-related coronavirus,1,29855
+960,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29800
+961,Iraq,Severe acute respiratory syndrome-related coronavirus,1,29817
+962,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+963,USA,Betacoronavirus 1,0,30737
+964,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30114
+965,Guatemala,Severe acute respiratory syndrome-related coronavirus,1,29873
+966,France,Severe acute respiratory syndrome-related coronavirus,1,29903
+967,Philippines,Severe acute respiratory syndrome-related coronavirus,1,29862
+968,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+969,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+970,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+971,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+972,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30071
+973,Turkey,Severe acute respiratory syndrome-related coronavirus,1,29813
+974,Colombia,Severe acute respiratory syndrome-related coronavirus,1,29903
+975,China,Human coronavirus NL63,0,27469
+976,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+977,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+978,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+979,United Arab Emirates,Middle East respiratory syndrome-related coronavirus,0,30123
+980,Tunisia,Severe acute respiratory syndrome-related coronavirus,1,29871
+981,Nigeria,Severe acute respiratory syndrome-related coronavirus,1,29881
+982,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+983,India,Human coronavirus 229E,0,27297
+984,USA,Betacoronavirus 1,0,30589
+985,USA,Betacoronavirus 1,0,30577
+986,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+987,Kenya,Betacoronavirus 1,0,30731
+988,Netherlands,Severe acute respiratory syndrome-related coronavirus,1,29875
+989,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30123
+990,United Kingdom,Middle East respiratory syndrome-related coronavirus,0,30079
+991,Peru,Severe acute respiratory syndrome-related coronavirus,1,29520
+992,Egypt,Severe acute respiratory syndrome-related coronavirus,1,29845
+993,Brazil,Severe acute respiratory syndrome-related coronavirus,1,29879
+994,Hong Kong,Severe acute respiratory syndrome-related coronavirus,1,29870
+995,Malaysia,Betacoronavirus 1,0,30716
+996,South Korea,Human coronavirus NL63,0,27535
+997,Georgia,Severe acute respiratory syndrome-related coronavirus,1,29825
+998,Mexico,Severe acute respiratory syndrome-related coronavirus,1,29409
+999,China,Betacoronavirus 1,0,30713
+1000,Saudi Arabia,Middle East respiratory syndrome-related coronavirus,0,30096
+1001,Serbia,Severe acute respiratory syndrome-related coronavirus,1,29858
